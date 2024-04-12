@@ -325,6 +325,7 @@ main{
   bottom: 150px;
   box-shadow: 0 0 10px #333;
   z-index: 9999;
+  display: none;
 }
 .top_btn a{
   color: #fff;
